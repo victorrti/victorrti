@@ -1,9 +1,10 @@
-### Hi there 👋
+### Ola! Eu sou victor rodrigues pereira.
+<div align="center">
+  <a href="https://github.com/victorrti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrti&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<!--
-**victorrti/victorrti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com backend e frontend 
 - 🌱 Estudando java,springboot e outros frameworks do java.
